@@ -1,0 +1,2 @@
+La función de transición se carga en una matriz donde las primera fila corresponde a los simbolos del alfabeto, la primera columna corresponde a los estados y las demas filas y columnas corresponden a los estados que resultan de leer el simbolo en ese estado, cuando hay un simbolo que no esta definido para un estado se debe poner un "_" en esa posicion en la matriz.
+Para utilizar la función draw() que grafica el automata se debe tener instalado graphviz http://graphviz.readthedocs.io/en/stable/index.html
